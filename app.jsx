@@ -7,7 +7,7 @@ const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "displayFont": "instrument",
   "wordmarkStyle": "italic-the",
   "showMarquee": true,
-  "heroTreatment": "grid"
+  "heroTreatment": "soft"
 } /*EDITMODE-END*/;
 
 /* ---------- Palettes ---------- */
